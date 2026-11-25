@@ -1,0 +1,12 @@
+{
+  "accuracy": 0.9666666666666667,
+  "recall": 0.8913043478260869,
+  "kept": 1.0,
+  "rejected": 0.5,
+  "parse": 1.0,
+  "errors": 2,
+  "llm_calls": 113,
+  "cost_usd": 0.0069,
+  "seconds": 71.6,
+  "source_sha256": "361f892818f95237ca7591213c70271423c5ba199d21fcb2f554f61034b20a02"
+}
